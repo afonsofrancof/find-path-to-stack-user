@@ -3,7 +3,7 @@
 ## Description
 
    An app that goes through a given friends list , finds the highest level friend,
-   and does a recursive on that friend until it finds st4cks steam profile. Prints the pack along the way.
+   and does a recursive on that friend until it finds st4cks steam profile. Prints the path along the way.
 
 ## Usage
 
