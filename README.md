@@ -13,7 +13,7 @@
 
 ## Bugs 
 
-The programm still doesn't account for loops (2 people are each others highest level friend) and when someone has
+The programm still doesn't account for loops (if it finds 2 people who are each others highest level friend) and when someone has
 private friend list.
 
 These will probably be fixed in the future.
